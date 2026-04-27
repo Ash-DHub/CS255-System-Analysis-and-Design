@@ -1,4 +1,11 @@
 # CS255-System-Analysis-and-Design
-This repository contains my work for CS 255.
+This repository contains my work for CS 255, including the DriverPass Business Requirements and System Design documents. 
 
-It includes system analysis and design artifacts that demonstrate my ability to gather requirements and design a system based on client needs.
+# Reflection 
+
+The DriverPass project was about designing a system for a client who wanted to help students get ready for their DMV driving tests. DriverPass needed a web-based system where users could sign up, log in, schedule lessons with instructors, take practice exams online, and track their progress. The system also needed tools for administrators to manage user accounts, assign drivers and vehicles, view reports, and update DMV data. 
+I did a good job turning the client’s interview and requirements into clear system parts. I picked out important features like lesson scheduling, user account management, and progress tracking, and showed them in use case and activity diagrams. I also included how different roles—customers, administrators, and instructors—interact in the system, which made the design more complete. 
+
+If I could change one part of my work, I would make my diagrams, especially the use case diagram, more organized and easier to read. Some parts looked crowded, so I would rearrange them to show the connections between actions and users more clearly. I would also make some interactions simpler so non-technical people could understand the design better. When I thought about what users needed, I looked at how each type of user would use the system. For example, customers needed an easy way to schedule and manage lessons, while administrators needed tools to handle users, vehicles, and reports. I made sure these needs showed up in both the business requirements and the system design. It’s important to focus on user needs because if the system isn’t easy to use or doesn’t match how people actually work, it won’t succeed, no matter how good the technology is. 
+
+When I design software, I start by understanding the client’s problem and breaking it into functional requirements. Then I organize these requirements into clear parts and use UML diagrams like use case, activity, and sequence diagrams to show how the system works. In the future, I plan to keep using these methods, along with making my diagrams clearer and separating system roles better, so my designs are both useful and easy to understand. 
